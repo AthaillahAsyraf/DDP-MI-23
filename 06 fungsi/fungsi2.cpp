@@ -2,7 +2,7 @@
 using namespace std;
 
 double luas_lingkaran(double jari);
-double luas_segitigas(double alas, double tinggi);
+double luas_segitiga(double alas, double tinggi);
 
 int main()
 {
